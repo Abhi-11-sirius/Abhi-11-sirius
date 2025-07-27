@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **abhishekkryadav09@gmail.com**
 
-- 📄 Resume [View Here](https://drive.google.com/file/d/1v2HIer39ftKsthc2VFT6RmeZnO-WKYtT/view?usp=sharing)
+- 📄 Resume [View Here](https://drive.google.com/file/d/1xC1kl5EZhmd3Lxh3DqOEhf4GGCoRukRI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi-11-sirius&show_icons=true&locale=en" alt="Abhi-11-sirius" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-11-sirius&" alt="Abhi-11-sirius" /></p> remove stats and total contribution section  in this add sql also 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-11-sirius&" alt="Abhi-11-sirius" /></p>
