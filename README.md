@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **abhishekkryadav09@gmail.com**
 
-- 📄 Resume [View Here](https://drive.google.com/file/d/1NSq1gIwkJ9sSMGej4l359-uTyu4G-qHb/view?usp=sharing)
+- 📄 Resume [View Here](https://drive.google.com/file/d/1v2HIer39ftKsthc2VFT6RmeZnO-WKYtT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
